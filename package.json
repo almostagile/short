@@ -27,7 +27,7 @@
   },
   "dependencies":{
     "node-promise":"0.5.8",
-    "mongoose":"4.0.6",
+    "mongoose":"4.9.3",
     "short-id":"0.1.0-1"
   },
   "devDependencies":{
@@ -36,10 +36,7 @@
   "bugs": {
     "url": "https://github.com/edwardhotchkiss/short/issues"
   },
-  "license":{
-    "type":"MIT",
-    "url":"http://github.com/edwardhotchkiss/short/LICENSE"
-  },
+  "license":"MIT",
   "scripts":{
     "test":"vows test/*.test.js --spec"
   }
